@@ -50,19 +50,19 @@
     </header>
     <section>
         <h2>About Me</h2>
-        <p>Hello! I'm a professional providing top-notch services. Let's work together.</p>
+        <p>Hello! THIS IS A OFFICIAL LEARNING PLATFORM OFFERED BY ROTARACT CLUB OF KPRCAS.</p>
     </section>
     <section>
         <h2>Services</h2>
-        <p>I offer high-quality services tailored to your needs.</p>
+        <p>HIGH QULAITY OF LEARNING SERVICES.</p>
     </section>
     <section>
         <h2>Contact</h2>
-        <p>Email: contact@yourwebsite.com</p>
+        <p>Email:RAC@KPRCAS.ac.in.</p>
         <a href="mailto:contact@yourwebsite.com" class="btn">Get in Touch</a>
     </section>
     <footer>
-        &copy; 2025 My Professional Website
+        &copy;@rackprcas
     </footer>
 </body>
 </html>
